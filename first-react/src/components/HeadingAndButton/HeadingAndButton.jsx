@@ -23,9 +23,11 @@ const HeadingAndButton = () => {
   )
 }
 
+
 export default HeadingAndButton
 */
 //Styled Component
+
 const HeadingAndButton = () => {
   const headingStyle = {
     fontSize: '12px',
