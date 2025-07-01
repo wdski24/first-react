@@ -1,6 +1,6 @@
 //Import CSS to file, to use classes
 import './App.css';
-import HeadingAndButton from './HeadingAndButton';
+import HeadingAndButton from './components/HeadingAndButton/HeadingAndButton';
 
 //Functional Component -> Name der Funktion ist identisch zum Namen des Files und beginnt immer mit einem großen Buchstaben
 function App() {
