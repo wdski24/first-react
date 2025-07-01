@@ -1,3 +1,4 @@
+//Import CSS to file, to use classes
 import './App.css';
 import HeadingAndButton from './HeadingAndButton';
 

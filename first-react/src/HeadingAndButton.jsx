@@ -25,11 +25,14 @@ const HeadingAndButton = () => {
 
 export default HeadingAndButton
 */
-
+//Styled Component
 const HeadingAndButton = () => {
+  const headingStyle = {
+    fontSize: '12px',
+  };
   return (
     <div>
-      <h2>HeadingAndButton</h2>
+      <h2 style={headingStyle}>HeadingAndButton</h2>
       <p>Lorem Ipsum alsdkjflaöksdjflökasjdcmlökjadäsojf</p>
       <button>Button</button>
     </div>
